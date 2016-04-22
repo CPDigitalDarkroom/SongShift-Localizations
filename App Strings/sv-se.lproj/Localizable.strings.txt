@@ -7,83 +7,83 @@
  */
 
 /* - Shown in the playlist selection screen displaying how many songs are present - */
-"%d SONGS" = "%d Songs";
+"%d SONGS" = "%d Låtar";
 
 /* - Shown when user is alerted 9.3 is required to create a playlist - */
-"9_3_PLAYLIST_CREATION_ERROR" = "Creating playlists in your Apple Music cloud library requires iOS 9.3 or greater. Please update to use this feature.";
+"9_3_PLAYLIST_CREATION_ERROR" = "För att automatiskt skapa spellistor i ditt Apple Music cloud bibliotek behövs iOS 9.3 eller senare. Var god att uppdatera för att använda den här funktionen.";
 
 /* - Shown when user is alerted 9.3 is required to import - */
-"9_3_REQUIRED_IMPORT" = "Importing songs to your Apple Music cloud library requires iOS 9.3 or greater. Please update to use this feature.";
+"9_3_REQUIRED_IMPORT" = "För att importera låtar till ditt Apple Music cloud bibliotek behövs iOS 9.3 eller senare. Var god att uppdatera för att använda den här funktionen.";
 
 /* - Shown in the main screen menu - */
-"ABOUT" = "About";
+"ABOUT" = "Om SongShift";
 
 /* - Shown in the about page - */
-"ABOUT_BODY" = "SongShift was born from the love of having the music we love on the service we love. Our mission is to help keep you listening to the music you love where you want it. ";
+"ABOUT_BODY" = "SongShift skapades för att man skall kunna lyssna på sin musik där man vill och inte vara bunden till endast en musiktjänst. Vårt uppdrag är att låta dig lyssna på din favoritmusik med din favoritapp.";
 
 /* - Presented on the purchase pro scren - */
-"ADS_DESCRIPTION" = "I know we all hate ads, I do too promise! Unfortunately in todays app store market, they have become a necessary evil :/";
+"ADS_DESCRIPTION" = "Jag vet att vi alla hatar reklam, det gör jag med! Men tyvärr så har dom blivit nödvändiga i dagens App Store utbud :/";
 
 /* - Shown in the main screen menu - */
-"BEGIN_NEW_SHIFT" = "Begin New Shift";
+"BEGIN_NEW_SHIFT" = "Starta Nytt Shift";
 
 /* - Shown app wide as a way to cancel - */
-"CANCEL" = "Cancel";
+"CANCEL" = "Avbryt";
 
 /* - Shown app wide as a way to close current view - */
-"CLOSE" = "Close";
+"CLOSE" = "Stäng";
 
 /* - Shown to users when either permission is not set or iCloud music library is off - */
-"CLOUD_NOT_READY_ALERT" = "Importing to Apple Music is not possible at this moment. Ensure you have given SongShift permission to access the Music app as well as turned on iCloud Music Library found under Settings -> Music";
+"CLOUD_NOT_READY_ALERT" = "Importering till Apple Music är inte möjligt just nu. Kontrollera att du har givit SongShift tillåtelse att komma åt Musik appen samt att iCloud Musik bibliotek är aktiverat. Aktivering av biblioteket kan göras under Inställningar -> Musik";
 
 /* - Shown app wide as a way to dismiss an alert - */
-"DISMISS" = "Dismiss";
+"DISMISS" = "Avfärda";
 
 
 /* - Shown when import/export is complete - */
-"ENJOY_YOUR_MUSIC" = "Enjoy your music";
+"ENJOY_YOUR_MUSIC" = "Njut av din musik";
 
 /* - Shown when exporting is complete - */
-"EXPORT_COMPLETE" = "Export Complete";
+"EXPORT_COMPLETE" = "Flyttning Slutförd";
 
 /* - Shown in the main screen menu - */
-"EXTRAS" = "Extras";
+"EXTRAS" = "Extramaterial";
 
-"FAILED_SONGS" = "Failed Songs";
+"FAILED_SONGS" = "Misslyckade låtar";
 
 /* - Shown in the main screen menu - */
-"HELP_US_GROW" = "Help Us Grow";
+"HELP_US_GROW" = "Hjälp oss bli större";
 
 /* - Shown when importing is complete - */
-"IMPORT_COMPLETE" = "Import Complete";
+"IMPORT_COMPLETE" = "Importering Slutförd";
 
 /* - Shown when user below 9.3 attempts to import to Apple Music - */
-"IMPORT_NOT_SUPPORTED" = "Importing songs from Spotify to Apple Music is not supported on the installed iOS version. Please update to iOS 9.3 or above to be able to use this feature";
+"IMPORT_NOT_SUPPORTED" = "För att importera låtar från Spotify till ditt Apple Music cloud bibliotek behövs iOS 9.3 eller senare. Var god att uppdatera för att använda den här funktionen.";
 
 /* - Shown to non-pro users one time when importing a 100+ track playlist - */
-"NON_PRO_LIMITATION" = "Playlists which contain more than 100 tracks will only process the first 100 tracks unless Pro is unlocked in the Extras menu";
+"NON_PRO_LIMITATION" = "För att importera mer än de 100 första låtarna i spellistan var god att lås upp Pro. Detta kan du göra under Extramaterial.";
 
 
 /* - Presented when there is an error creating a new playist - */
-"PLAYLIST_CREATION_ERROR" = "There was an error creating a new playlist. Please try again.";
+"PLAYLIST_CREATION_ERROR" = "Det gick inte att skapa en ny spellista. Var god försök igen.";
 
 /* - Presented on the purchase pro scren - */
-"PRO_DESCRIPTION" = "Unlocking Pro removes the 100 track per playlist limit and unlocks any present and future import/export services.";
+"PRO_DESCRIPTION" = "Vid köp av Pro försvinner gränsen av 100 låtar och du kan nu flytta/importera alla låtar i dina spellistor.";
 
 /* - Shown on pro button when already unlocked - */
-"PRO_UNLOCKED" = "Pro Unlocked";
+"PRO_UNLOCKED" = "Pro Upplåst";
 
 /* - shown when user is presented when permission error and asked to open settings - */
-"OPEN_SETTINGS" = "Open Settings";
+"OPEN_SETTINGS" = "Gå till Inställningar";
 
 /* - Shown in the service selection view when user taps on "Other Services" - */
-"OTHER_SERVICES_MESSAGE" = "Although SongShift currently only supports Apple Music and Spotify, I am continuously looking to imporove the app by adding more features. If you've got a service you'd like to see added to available options please drop me an email and let me know!";
+"OTHER_SERVICES_MESSAGE" = "Just nu stöds bara Apple Music och Spotify av SongShift, däremot försöker jag ständigt hitta nya sätt att förbättra appen genom att lägga till nya funktioner. Om du har någon idé om vad som skulle förbättras eller läggas till så får du gärna skicka ett mail till mig!";
 
 /* - Shown in the main screen menu - */
-"RATE_APP" = "Rate SongShift";
+"RATE_APP" = "Betygsätt SongShift";
 
 /* - Shown in the remove ads button - */
-"REMOVE_ADS" = "Remove Ads";
+"REMOVE_ADS" = "Ta bort Reklam";
 
 /* - Shown on the in-app purchase screeen - */
 "RESTORE" = "Återställ";
