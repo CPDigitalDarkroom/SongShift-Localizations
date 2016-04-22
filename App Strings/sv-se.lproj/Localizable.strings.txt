@@ -95,7 +95,7 @@
 "SHARE" = "Dela SongShift";
 
 /* - Shown to the user when tapping on "Help us Grow" - */
-"SHARE_MESSAGE" = "Att vara en självständig utvecklare betyder att jag inte kan marknadsföra min app på samma sätt som större företag kan. Det leder å andra sidan till att jag får en bättre kontakt med er användare. Jag är oerhört tacksam för er stöd med SongShift.. Tack för att ni använder SongShift och hjälper till att göra det till något jag inte kunde göra på egen hand.";
+"SHARE_MESSAGE" = "Att vara en självständig utvecklare betyder att jag inte kan marknadsföra min app på samma sätt som större företag kan. Det leder å andra sidan till att jag får en bättre kontakt med er användare. Jag är oerhört tacksam för ert stöd med SongShift.. Tack för att ni använder SongShift och hjälper till att göra det till något jag inte kan göra på egen hand.";
 
 /* - Text to be shared when sharing the app - */
 "SHARE_TEXT" = "Med SongShift kan du enkelt importera spellistor till Apple Music.";
