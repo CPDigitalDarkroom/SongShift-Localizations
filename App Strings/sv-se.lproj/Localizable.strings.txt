@@ -22,7 +22,7 @@
 "ABOUT_BODY" = "SongShift skapades för att man skall kunna lyssna på sin musik där man vill och inte vara bunden till endast en musiktjänst. Vårt uppdrag är att låta dig lyssna på din favoritmusik med din favoritapp.";
 
 /* - Presented on the purchase pro scren - */
-"ADS_DESCRIPTION" = "Jag vet att vi alla hatar reklam, det gör jag med! Men tyvärr så har dom blivit nödvändiga i dagens App Store utbud :/";
+"ADS_DESCRIPTION" = "Jag vet att vi alla hatar reklam, det gör jag med! Men tyvärr så har de blivit nödvändiga i dagens App Store utbud :/";
 
 /* - Shown in the main screen menu - */
 "BEGIN_NEW_SHIFT" = "Starta Nytt Shift";
