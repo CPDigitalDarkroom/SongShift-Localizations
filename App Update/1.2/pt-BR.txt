@@ -1,10 +1,10 @@
 ** BUSCA MELHORADA **
 Nessa versão do SongShift você deve vivenciar uma taxa muito maior de sucesso ao importar e exportar músicas. Melhoras foram feitas por todo o app para garantir uma taxa alta mantendo a qualidade alta.
 
-** Exporting **
+** EXPORTANDO **
 Quando SongShift foi lançado o foco era a ajuda ao trazer playlists do Spotify para o Apple Music. Hoje o nosso foco é manter você ouvindo as suas músicas favoritas no serviço de música que quer. SongShift deixa você exportar playlists para o Spotify.
 
-** Fixes **
+** CONSERTOS **
 Nós achamos alguns bugs que estavam realmente causando algumas dores de cabeça para os usuários. Nós colocamos os nossos melhores esmagadores de bugs no desafio e consertamos esses problemas.
 
 Se você tem mais sugestões ou feedback, não hesite em nos contatar em support@songshiftapp.com
