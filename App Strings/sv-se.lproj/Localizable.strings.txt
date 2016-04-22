@@ -1,0 +1,113 @@
+/*
+ Localizable.strings
+ SongShift
+ 
+ Created by Juan Carlos Perez on 4/20/15.
+ Copyright © 2015 CP DigitalDarkroom. All rights reserved.
+ */
+
+/* - Shown in the playlist selection screen displaying how many songs are present - */
+"%d SONGS" = "%d Songs";
+
+/* - Shown when user is alerted 9.3 is required to create a playlist - */
+"9_3_PLAYLIST_CREATION_ERROR" = "Creating playlists in your Apple Music cloud library requires iOS 9.3 or greater. Please update to use this feature.";
+
+/* - Shown when user is alerted 9.3 is required to import - */
+"9_3_REQUIRED_IMPORT" = "Importing songs to your Apple Music cloud library requires iOS 9.3 or greater. Please update to use this feature.";
+
+/* - Shown in the main screen menu - */
+"ABOUT" = "About";
+
+/* - Shown in the about page - */
+"ABOUT_BODY" = "SongShift was born from the love of having the music we love on the service we love. Our mission is to help keep you listening to the music you love where you want it. ";
+
+/* - Presented on the purchase pro scren - */
+"ADS_DESCRIPTION" = "I know we all hate ads, I do too promise! Unfortunately in todays app store market, they have become a necessary evil :/";
+
+/* - Shown in the main screen menu - */
+"BEGIN_NEW_SHIFT" = "Begin New Shift";
+
+/* - Shown app wide as a way to cancel - */
+"CANCEL" = "Cancel";
+
+/* - Shown app wide as a way to close current view - */
+"CLOSE" = "Close";
+
+/* - Shown to users when either permission is not set or iCloud music library is off - */
+"CLOUD_NOT_READY_ALERT" = "Importing to Apple Music is not possible at this moment. Ensure you have given SongShift permission to access the Music app as well as turned on iCloud Music Library found under Settings -> Music";
+
+/* - Shown app wide as a way to dismiss an alert - */
+"DISMISS" = "Dismiss";
+
+
+/* - Shown when import/export is complete - */
+"ENJOY_YOUR_MUSIC" = "Enjoy your music";
+
+/* - Shown when exporting is complete - */
+"EXPORT_COMPLETE" = "Export Complete";
+
+/* - Shown in the main screen menu - */
+"EXTRAS" = "Extras";
+
+"FAILED_SONGS" = "Failed Songs";
+
+/* - Shown in the main screen menu - */
+"HELP_US_GROW" = "Help Us Grow";
+
+/* - Shown when importing is complete - */
+"IMPORT_COMPLETE" = "Import Complete";
+
+/* - Shown when user below 9.3 attempts to import to Apple Music - */
+"IMPORT_NOT_SUPPORTED" = "Importing songs from Spotify to Apple Music is not supported on the installed iOS version. Please update to iOS 9.3 or above to be able to use this feature";
+
+/* - Shown to non-pro users one time when importing a 100+ track playlist - */
+"NON_PRO_LIMITATION" = "Playlists which contain more than 100 tracks will only process the first 100 tracks unless Pro is unlocked in the Extras menu";
+
+
+/* - Presented when there is an error creating a new playist - */
+"PLAYLIST_CREATION_ERROR" = "There was an error creating a new playlist. Please try again.";
+
+/* - Presented on the purchase pro scren - */
+"PRO_DESCRIPTION" = "Unlocking Pro removes the 100 track per playlist limit and unlocks any present and future import/export services.";
+
+/* - Shown on pro button when already unlocked - */
+"PRO_UNLOCKED" = "Pro Unlocked";
+
+/* - shown when user is presented when permission error and asked to open settings - */
+"OPEN_SETTINGS" = "Open Settings";
+
+/* - Shown in the service selection view when user taps on "Other Services" - */
+"OTHER_SERVICES_MESSAGE" = "Although SongShift currently only supports Apple Music and Spotify, I am continuously looking to imporove the app by adding more features. If you've got a service you'd like to see added to available options please drop me an email and let me know!";
+
+/* - Shown in the main screen menu - */
+"RATE_APP" = "Rate SongShift";
+
+/* - Shown in the remove ads button - */
+"REMOVE_ADS" = "Remove Ads";
+
+/* - Shown on the in-app purchase screeen - */
+"RESTORE" = "Återställ";
+
+/* - Shown in the view title in the source selection view - */
+"SELECT_SOURCE" = "Välj Källa";
+
+/* - Shown in the main screen menu - */
+"SHARE" = "Dela SongShift";
+
+/* - Shown to the user when tapping on "Help us Grow" - */
+"SHARE_MESSAGE" = "Att vara en självständig utvecklare betyder att jag inte kan marknadsföra min app på samma sätt som större företag kan. Det leder å andra sidan till att jag får en bättre kontakt med er användare. Jag är oerhört tacksam för er stöd med SongShift.. Tack för att ni använder SongShift och hjälper till att göra det till något jag inte kunde göra på egen hand.";
+
+/* - Text to be shared when sharing the app - */
+"SHARE_TEXT" = "Med SongShift kan du enkelt importera spellistor till Apple Music.";
+
+/* - Shown in the main screen when displaying the number of songs exported - */
+"SONGS_EXPORTED" = "Låtar Flyttade";
+
+/* - Shown in the main screen when displaying the number of songs imported - */
+"SONGS_IMPORTED" = "Låtar Importerade";
+
+
+"THANK_YOU" = "Tack!";
+
+/* - Shown on the unlock pro button - */
+"UNLOCK_PRO" = "Lås upp Pro";
