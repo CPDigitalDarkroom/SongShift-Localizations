@@ -1,0 +1,18 @@
+Ever switch music service only to find yourself frustrated with having to recreate your already perfect playlists?
+
+For the first time on iOS, SongShift allows you to import your already created Spotify Playlists into Apple Music playlists.
+
+*** FEATURES ***
+
+DIRECT LIBRARY IMPORTING
+If all you want to do is have the songs you already like in your media library this option is for you. The full playlist will be processed and added to your media library for you to organize to your liking.
+
+PLAYLIST TO PLAYLIST IMPORTING
+Arguably the best feature, playlist to playlist importing allows you to have the exact same playlist you've already come to love. Whether it's your favorite #gymflow playlist or a romantic mood setter, it'll be available exactly as it was before.
+
+Importing songs is fast and user friendly. Enjoy your favorite songs in your favorite music service.
+
+*** NOTE ***
+Requires an active Apple Music subscription with iCloud Music Library turned on in settings.
+
+If you have any issues with SongShift please let us know at support@songshiftapp.com. We'll be happy to assist in every way we can.
