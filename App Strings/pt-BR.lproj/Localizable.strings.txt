@@ -1,0 +1,111 @@
+/*
+ Localizable.strings
+ SongShift
+ 
+ Created by Juan Carlos Perez on 4/20/15.
+ Copyright © 2015 CP DigitalDarkroom. All rights reserved.
+ */
+
+/* - Shown in the playlist selection screen displaying how many songs are present - */
+"%d SONGS" = "%d Músicas";
+
+/* - Shown when user is alerted 9.3 is required to create a playlist - */
+"9_3_PLAYLIST_CREATION_ERROR" = "Criar playlists na nuvem da sua biblioteca do Apple Music necessita do iOS 9.3 ou mais. Por favor atualize para usar essa opção.";
+
+/* - Shown when user is alerted 9.3 is required to import - */
+"9_3_REQUIRED_IMPORT" = "Importar músicas para a sua biblioteca do Apple Music necessita do iOS 9.3 ou mais. Por favor atualize para usar essa opção.";
+
+/* - Shown in the main screen menu - */
+"ABOUT" = "Sobre";
+
+/* - Shown in the about page - */
+"ABOUT_BODY" = "SongShift nasceu do amor de ter as músicas que amamos no aplicativo que amamos. Nossa missão é ajudar você a continuar a ouvir a música que ama onde quiser.";
+
+/* - Presented on the purchase pro scren - */
+"ADS_DESCRIPTION" = "Eu sei que todos odiamos propagandas, eu também, prometo! Infelizmente no atual mercado da apple store, elas se tornaram um mal necessário :/";
+
+/* - Shown in the main screen menu - */
+"BEGIN_NEW_SHIFT" = "Começar nova mudança";
+
+/* - Shown app wide as a way to cancel - */
+"CANCEL" = "Cancelar";
+
+/* - Shown app wide as a way to close current view - */
+"CLOSE" = "Fechar";
+
+/* - Shown to users when either permission is not set or iCloud music library is off - */
+"CLOUD_NOT_READY_ALERT" = "Importar para o Apple Music não é possível nesse momento. Tenha certeza de que você deu permissão a SongShift para acessar o aplicativo Música e tenha ligado a Biblioteca de Música do iCloud encontrado em Ajustes -> Música"; 
+
+/* - Shown app wide as a way to dismiss an alert - */
+"DISMISS" = "Fechar";
+
+/* - Shown when import/export is complete - */
+"ENJOY_YOUR_MUSIC" = "Curta sua música!";
+
+/* - Shown when exporting is complete - */
+"EXPORT_COMPLETE" = "Exportação Completa!";
+
+/* - Shown in the main screen menu - */
+"EXTRAS" = "Extras";
+
+"FAILED_SONGS" = "Músicas Falhadas";
+
+/* - Shown in the main screen menu - */
+"HELP_US_GROW" = "Ajude-nos a crescer";
+
+/* - Shown when importing is complete - */
+"IMPORT_COMPLETE" = "Importação Completa";
+
+/* - Shown when user below 9.3 attempts to import to Apple Music - */
+"IMPORT_NOT_SUPPORTED" = "Importar músicas do Spotify para o Apple Music não é suportado nessa versão ainda. Por favor atualize para o iOS 9.3 ou mais para poder usar essa opção";
+
+/* - Shown to non-pro users one time when importing a 100+ track playlist - */
+"NON_PRO_LIMITATION" = "Playlists que contém mais de 100 músicas vão processar apenas as 100 primeiras músicas a não ser que o pacote Pro seja liberado no menu Extras";
+
+/* - Presented when there is an error creating a new playist - */
+"PLAYLIST_CREATION_ERROR" = "Ocorreu um erro ao criar um novo playlist. Por favor tente nvoamente.";
+
+/* - Presented on the purchase pro scren - */
+"PRO_DESCRIPTION" = "Liberar o pacote Pro remove o limite de 100 músicas por playlist e libera qualquer opção de importação/exportação que existe ou que possa ser adicionada.";
+
+/* - Shown on pro button when already unlocked - */
+"PRO_UNLOCKED" = "Pro Liberado";
+
+/* - shown when user is presented when permission error and asked to open settings - */
+"OPEN_SETTINGS" = "Abrir Ajustes";
+
+/* - Shown in the service selection view when user taps on "Other Services" - */
+"OTHER_SERVICES_MESSAGE" = "Apesar de que SongShift apenas suporta Apple Music e Spotify agora, eu estou continuamente procurando melhorar o app ao adicionar novas opções. Se você tem algum serviço que gostaria de ver disponível por favor me mande um email e me avise!";
+
+/* - Shown in the main screen menu - */
+"RATE_APP" = "Avaliar SongShift";
+
+/* - Shown in the remove ads button - */
+"REMOVE_ADS" = "Remover Propagandas";
+
+/* - Shown on the in-app purchase screeen - */
+"RESTORE" = "Restorar";
+
+/* - Shown in the view title in the source selection view - */
+"SELECT_SOURCE" = "Selecionar Fonte";
+
+/* - Shown in the main screen menu - */
+"SHARE" = "Compartilhar SongShift";
+
+/* - Shown to the user when tapping on "Help us Grow" - */
+"SHARE_MESSAGE" = "Ser um desenvolvedor indie significa que eu não tenho o dinheiro que algumas companias têm para promover meu app. Isso também significa que eu tenho uma conexão muito mais forte com cada um de vocês. Eu não consigo agradecer mais pelo seu suporte pelo app. Obrigado por usar SonShift e por me ajudar a fazer algo que eu não conseguiria sozinho.";
+
+/* - Text to be shared when sharing the app - */
+"SHARE_TEXT" = "SongShift o ajuda a importar playlists para o Apple Music com incrível facilidade.";
+
+/* - Shown in the main screen when displaying the number of songs exported - */
+"SONGS_EXPORTED" = "Músicas Exportadas";
+
+/* - Shown in the main screen when displaying the number of songs imported - */
+"SONGS_IMPORTED" = "Músicas Importadas";
+
+
+"THANK_YOU" = "Obrigado";
+
+/* - Shown on the unlock pro button - */
+"UNLOCK_PRO" = "Liberar o Pro";
