@@ -1,0 +1,10 @@
+** FÖRBÄTTRAD SÖKMETOD **
+I den här versionen av SongShift skall fler låtar kunna identifieras och kunna flyttas/importeras till ditt nya bibliotek. 
+
+** FLYTTNING AV LÅTAR **
+När SongShift skapades var målet att flytta spellistor från Spotify till Apple Music. Idag är målet att låta er användare lyssna på er favorit musik på den musiktjänst ni vill. SongShift kan nu även flytta spellistor från Apple Music till Spotify.
+
+** FÖRBÄTTRINGAR **
+Vi har återgärdat vissa fel som våra fantastiska användare hade hittat.
+
+Om du har några idéer eller feedback, tveka inte att kontakta oss på: support@songshiftapp.com 
